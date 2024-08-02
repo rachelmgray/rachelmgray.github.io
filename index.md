@@ -5,7 +5,7 @@ layout: default
 
 ![Rachel Gray with rubber universe](./assets/img/Gray_rubber_universe.png)
 
-Hello! My name is Rachel Gray. I'm a researcher in gravitational-wave cosmology at the University of Glasgow in Scotland. 
+Hello! My name is Rachel Gray. I'm a researcher in gravitational-wave cosmology at the University of Glasgow in Scotland. This is my personal webpage where you can learn more about me and my research.
 
 ## About me
 

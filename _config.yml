@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Rachel Gray
 description: Personal website
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
