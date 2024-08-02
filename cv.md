@@ -1,5 +1,7 @@
 # CV
 
+UNDER CONSTRUCTION
+
 I am a lecturer at the University of Glasgow, specialising in constraining cosmological parameters using gravitational wave signals from compact binary mergers. I currently serve as co-chair for the LIGO-Virgo-KAGRA Cosmology Working Group.
 
 ## Career
@@ -17,8 +19,10 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 ## Research Grants
 
 ## Awards
+- Kelvin Prize and Medal (PhD thesis 2021)
 
 ## Organisation of scientific meetings
+- GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting, Glasgow, UK (June 2024)
 
 ## Teaching
 
