@@ -1,7 +1,5 @@
 # CV
 
-UNDER CONSTRUCTION
-
 I am a lecturer at the University of Glasgow, specialising in constraining cosmological parameters using gravitational wave signals from compact binary mergers. I currently serve as co-chair for the LIGO-Virgo-KAGRA Cosmology Working Group.
 
 ## Career
@@ -30,7 +28,7 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - *Cosmology with standard sirens: What's the state of play?*, Invited talk for the **National Astronomy Meeting**, Cardiff, UK (Jul 2023)
 - *Cosmological constraints from the 3rd observing run of AdvancedLIGO, Virgo and KAGRA*, Invited talk for the **10th LISA Cosmology Working Group Workshop**, Stavanger, Norway (Jun 2023)
 - *Gravitational-wave science from the 3rd observing run of Advanced LIGO, Virgo and KAGRA*, Invited talk at **Progress on Old and New Themes in Cosmology**, Avignon, France (May 2023)
-- *Cosmology with Dark Sirens and Galaxy Catalogues*, Invited talk at the **KICP Workshop**, The quest for precision gravitational wave cosmology, Chicago, USA (Sept 2022)
+- *Cosmology with Dark Sirens and Galaxy Catalogues*, Invited talk at the **KICP Workshop: The quest for precision gravitational wave cosmology**, Chicago, USA (Sept 2022)
 - *Cosmology with dark sirens: Attempting to solve the Hubble Constant tension*, Invited talk (online) for **Workshop III: Source inference and parameter estimation in Gravitational Wave Astronomy**, run by The Institute for Pure and Applied Mathematics, California, USA (Nov 2021)
 - *Measuring the Hubble Constant with Dark Standard Sirens*, Invited talk (online) for **A (Hubble) Tension Headache Workshop**, run by the Southampton Theory, Astrophysics and Gravity Research Centre, UK (Mar 2021)
 
@@ -41,7 +39,7 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - *Statistically Inferring the Hubble Constant using Gravitational Wave Signals*, **BritGrav**, Portsmouth, UK  (Apr 2018)
 
 ## Seminars and colloquia
-- colloquium speaker at University of Portsmouth's Institute of Cosmology and Gravitation (November 2023)
+- Colloquium speaker at University of Portsmouth's Institute of Cosmology and Gravitation (November 2023)
 - Seminar for University of Southampton's Gravity Seminar series (November 2023)
 - Seminar at Cardiff University, UK Nov 2022
 - Seminar at University of Cambridge, UK Oct 2022
@@ -67,3 +65,25 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - Rory Matheson, MSci student (2023 - 2024)
 
 ## Public outreach
+- IGR stall at **Worldcon, World Science Fiction Convention** (Aug 2024)
+- IGR stall at **Glasgow Science Festival** (June 2024)
+- Talk for **Raising Attainment in Physics** Joint IOP Scotland SSERC conference for Scottish physics teachers (May 2024)
+- Talk for **Astrosoc**, Glasgow University Astronomy (Nov 2023)
+- Talk for **Inverclyde Skywatchers** amateur astronomy group (Nov 2023)
+- IGR stall at **Explorathon**, Glasgow (Sept 2023)
+- Led **Girls into Physics Workshops** Glasgow, Inverness (2019)
+
+## Publications
+
+- **R. Gray** et al., "Joint cosmological and gravitational-wave population inference using dark sirens and galaxy catalogues", *JCAP* **2023** 023 (2023)
+- S. Mastrogiovanni1, D. Laghi, **R Gray** et al., "Joint population and cosmological properties inference with gravitational waves standard sirens and galaxy surveys", *PRD* **108** 042002 (2023)
+- J. Gair, A. Ghosh, **R. Gray** et al., "The Hitchhiker's Guide to the Galaxy Catalog Approach for Dark Siren Gravitational-wave Cosmology", *AJ* **166** 22 (2023)
+- R. Abbott et al., “Constraints on the cosmic expansion history from GWTC-3,” *ApJ* **949** 76 (2023)
+- C. Turski et al., "Impact of modelling galaxy redshift uncertainties on the gravitational-wave dark standard siren measurement of the Hubble constant", *MNRAS* **526** 6224–6233 (2023)
+- **R. Gray**, C. Messenger, and J. Veitch, “A pixelated approach to galaxy catalogue incompleteness: improving the dark siren measurement of the Hubble constant,” *MNRAS*, **512** 1127–1140 (2022)
+- B. P. Abbott et al., “A gravitational-wave measurement of the Hubble constant following the second observing run of Advanced LIGO and Virgo,” *ApJ* **909** 218 (2021)
+- S. Mastrogiovanni, et al., “On the importance of source population models for gravitational-wave cosmology,” *PRD* **104** 062009 (2021)
+- **R. Gray** et al., “Cosmological inference using gravitational wave standard sirens: A mock data analysis,” *PRD* **101** (2020)
+- M. Fishbach, **R. Gray**, I. M. Hernandez, H. Qi, A. Sur, et al., “A standard siren measurement of the hubble constant from GW170817 without the electromagnetic counterpart,” *ApJL* **871** L13 (2019)
+
+
