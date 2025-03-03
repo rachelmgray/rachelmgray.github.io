@@ -21,6 +21,9 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - [GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting](https://indico.in2p3.fr/event/33026/), Glasgow, UK (June 2024)
 
 ## Invited talks at conferences and workshops
+- *Cosmology with Dark Sirens & Galaxy Catalogues: a review*, Invited talk at the **Solvay Workshop on Gravitational Wave Cosmology**, Brussels, Belgium (Feb 2025)
+- *Cosmology with standard sirens: What’s the state of play?*, Invited talk at **Gravity Shape Pisa 2024**, Pisa, Italy (Oct 2024)
+- *Cosmology with gravitational waves: Measuring the Hubble constant with current detections*, Invited talk at the **Gravitational waves, ElectroMagnetic and dark MAtter workshop**, Rome, Italy (Sept 2024)
 - *Fundamental Astrophysics with A#* panel member at the **DAWN VII** meeting, Vancouver, Canada (June 2024)
 - Invited speaker (2 lectures) for the **Gravitational Wave Initiative Lectures** at Queen Mary University of London (May 2024)
 - *Cosmological constraints from the 3rd observing run of Advanced LIGO, Virgo and KAGRA*, Plenary talk for the **Understanding Cosmological Observations Workshop**, Benasque, Spain (Jul 2023)
