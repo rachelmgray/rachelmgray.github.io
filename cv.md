@@ -10,17 +10,18 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 ## Education
 - **PhD in Astronomy and Physics**, *University of Glasgow*, Glasgow, Scotland (2017 - 2021)
   - Thesis: "Gravitational Wave Cosmology: measuring the Hubble constant with dark standard sirens". Supervised by Dr. John Veitch and Dr. Chris Messenger.
-- **MSci in Astronomy and Physics**, *University of Glasgow*, Glasgow, Scotland (2012 - 2017)
-
-## Research Grants
+- **MSci in Astronomy and Physics**, with Honours of the First Class, *University of Glasgow*, Glasgow, Scotland (2012 - 2017)
 
 
 ## Organisation of scientific meetings
+- [Shedding Light on Dark Sirens](https://www.lorentzcenter.nl/shedding-light-on-dark-sirens.html), Leiden, the Netherlands (Sept 2025)
 - [GR 24 & Amaldi 16](https://iop.eventsair.com/gr24-amaldi16/), Glasgow, UK (July 2025)
+- GR 24 & Amaldi 16 Early Career Workshop (satellite meeting to the GR 24 & Amaldi 16 conference), Glasgow, UK (July 2025)
 - [JENAS](https://indico.cern.ch/event/1440480/), Didcot, UK (Apr 2025)
 - [GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting](https://indico.in2p3.fr/event/33026/), Glasgow, UK (June 2024)
 
 ## Invited talks at conferences and workshops
+- *GW cosmology prospects and targeted EM follow-up of dark sirens*, invited discussion session at the **5th Philip Wetton Workshop**, Oxford, UK (Sept 2025)
 - *Cosmology with Dark Sirens & Galaxy Catalogues: a review*, Invited talk at the **Solvay Workshop on Gravitational Wave Cosmology**, Brussels, Belgium (Feb 2025)
 - *Cosmology with standard sirens: What’s the state of play?*, Invited talk at **Gravity Shape Pisa 2024**, Pisa, Italy (Oct 2024)
 - *Cosmology with gravitational waves: Measuring the Hubble constant with current detections*, Invited talk at the **Gravitational waves, ElectroMagnetic and dark MAtter workshop**, Rome, Italy (Sept 2024)
@@ -51,6 +52,11 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - Seminar for the Center for Gravitation, Cosmology & Astrophysics, at the University of Wisconsin-Milwaukee, Wisconsin, USA May 2019
 - Seminar at LIGO Livingston, Louisiana, USA May 2019
 
+## Research Grants
+- Investigations in Gravitational Radiation, UKRI Consolidated Grant, 2025 - 2028, role: project co-lead.
+- ANR MRSEI project GWCats, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €30000 for 2 years]
+- CNRS AMORCE project GWGSC, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €10000 for 1 year]
+
 ## Awards
 - Kelvin Prize and Medal (PhD thesis 2021)
 
@@ -64,20 +70,25 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - Alexander Papadopoulos, PhD student (2023 - present)
 - Zhuotao Li, PhD student (2023 - present)
 
+- Liam Gallacher, MSci student (2024 - 2025)
 - Katy Drummond, MSci student (2023 - 2024)
 - Rory Matheson, MSci student (2023 - 2024)
 
 ## Public outreach
+- Demonstrator at the **Gravitational Wave Ceilidh Preview and Talk**, Glasgow (June 2025)
 - IGR stall at **Worldcon, World Science Fiction Convention** (Aug 2024)
 - IGR stall at **Glasgow Science Festival** (June 2024)
 - Talk for **Raising Attainment in Physics** Joint IOP Scotland SSERC conference for Scottish physics teachers (May 2024)
 - Talk for **Astrosoc**, Glasgow University Astronomy (Nov 2023)
 - Talk for **Inverclyde Skywatchers** amateur astronomy group (Nov 2023)
 - IGR stall at **Explorathon**, Glasgow (Sept 2023)
-- Led **Girls into Physics Workshops** Glasgow, Inverness (2019)
+- Led **Girls into Physics Workshops** Glasgow and Inverness (2019)
 
-## Publications
-
+## Publication highlights
+- The LIGO-Virgo-KAGRA Collaboration, "GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation", 2025, https://arxiv.org/abs/2509.04348
+- Z. Li, **R. Gray** and I. S. Heng, "Using gravitational wave dark sirens to choose between host galaxy weighting models", 2025, *in submission*, https://arxiv.org/abs/2508.15574
+- P. Raffai et al., "Constraints on Coasting Cosmological Models from Gravitational-wave Standard Sirens", *ApJ* **961** 17 (2024)
+- A. Chen, **R. Gray** and T. Baker, "Testing the nature of gravitational wave propagation using dark sirens and galaxy catalogues", *JCAP* **2024** 035 (2024)
 - **R. Gray** et al., "Joint cosmological and gravitational-wave population inference using dark sirens and galaxy catalogues", *JCAP* **2023** 023 (2023)
 - S. Mastrogiovanni1, D. Laghi, **R Gray** et al., "Joint population and cosmological properties inference with gravitational waves standard sirens and galaxy surveys", *PRD* **108** 042002 (2023)
 - J. Gair, A. Ghosh, **R. Gray** et al., "The Hitchhiker's Guide to the Galaxy Catalog Approach for Dark Siren Gravitational-wave Cosmology", *AJ* **166** 22 (2023)
@@ -85,7 +96,7 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - C. Turski et al., "Impact of modelling galaxy redshift uncertainties on the gravitational-wave dark standard siren measurement of the Hubble constant", *MNRAS* **526** 6224–6233 (2023)
 - **R. Gray**, C. Messenger, and J. Veitch, “A pixelated approach to galaxy catalogue incompleteness: improving the dark siren measurement of the Hubble constant,” *MNRAS*, **512** 1127–1140 (2022)
 - B. P. Abbott et al., “A gravitational-wave measurement of the Hubble constant following the second observing run of Advanced LIGO and Virgo,” *ApJ* **909** 218 (2021)
-- S. Mastrogiovanni, et al., “On the importance of source population models for gravitational-wave cosmology,” *PRD* **104** 062009 (2021)
+- S. Mastrogiovanni et al., “On the importance of source population models for gravitational-wave cosmology,” *PRD* **104** 062009 (2021)
 - **R. Gray** et al., “Cosmological inference using gravitational wave standard sirens: A mock data analysis,” *PRD* **101** (2020)
 - M. Fishbach, **R. Gray**, I. M. Hernandez, H. Qi, A. Sur, et al., “A standard siren measurement of the hubble constant from GW170817 without the electromagnetic counterpart,” *ApJL* **871** L13 (2019)
 

@@ -9,20 +9,22 @@ A list of ongoing and previous projects can be found below, in (approximately) r
 
 ## Ongoing projects
 
-### Analysing GWTC-4 with gwcosmo for the O4a LVK Cosmology paper
-Ongoing LVK collaborative project. Look out for the paper release and data release in 2025!
 
-### Cosmological inference combining different populations of CBCs
-Ongoing project with PhD student Alex Papadopoulos, aiming to correctly combine populations of binary black holes, binary neutron stars, and neutron star-black hole mergers (and those awkward ones which fall somewhere in between...) into a single comprehensive cosmological analysis.
+### Analysing GWTC-5 with gwcosmo for the O4b LVK Cosmology paper
+Ongoing LVK project. Look out for a paper in mid 2026...
 
-### Inferring the properties of host galaxies using CBC detections
-Ongoing project with PhD student Zhuotao Li, investigating the prospect of distinguishing between different host galaxy weighting models using future LVK(I) detections, thus shedding light on the kinds of galaxies which host binary black hole mergers.
 
 ### Preparing gwcosmo for the era of big data
 The current gwcosmo analysis is stretched with the current LVK detections and GLADE+ catalogue. With GW detections increasing (and set to expand rapidly in O5 and beyond), plus many big upcoming galaxy surveys, now is the time to power up this analysis...
 
 
 ## Previous projects
+
+### Analysing GWTC-4 with gwcosmo for the O4a LVK Cosmology paper
+LVK collaborative project, applying gwcosmo to the GWTC-4 events, using the GLADE+ galaxy catalogue. This paper contains the first ever LVK results which jointly infer cosmological and population parameters together, while including information from a galaxy catalogue. It also contains the first ever LVK contraints on modified gravitational wave propagation! [Read about it here.](https://arxiv.org/abs/2509.04348)
+
+### Inferring the properties of host galaxies using CBC detections
+Project with PhD student Zhuotao Li, investigating the prospect of distinguishing between different host galaxy weighting models using future LVK detections, thus shedding light on the kinds of galaxies which host binary black hole mergers. [Read about it here.](https://arxiv.org/abs/2508.15574)
 
 ### Constraining modified gravity parameters using gwcosmo and GWTC-3
 Project with Anson Chen and Tessa Baker while at QMUL. Anson implemented a range of modified gravity models into gwcosmo (ones which include a friction term, thus causing measured GW luminosity distance to differ from EM luminosity distance). We tested these on mock data, and then ran the analysis on GWTC-3. Spoiler: no signs of deviations from GR just yet. [Read about it here.](https://iopscience.iop.org/article/10.1088/1475-7516/2024/02/035)
