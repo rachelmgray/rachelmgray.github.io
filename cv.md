@@ -12,13 +12,12 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
   - Thesis: "Gravitational Wave Cosmology: measuring the Hubble constant with dark standard sirens". Supervised by Dr. John Veitch and Dr. Chris Messenger.
 - **MSci in Astronomy and Physics**, with Honours of the First Class, *University of Glasgow*, Glasgow, Scotland (2012 - 2017)
 
-
 ## Organisation of scientific meetings
-- [Shedding Light on Dark Sirens](https://www.lorentzcenter.nl/shedding-light-on-dark-sirens.html), Leiden, the Netherlands (Sept 2025)
-- [GR 24 & Amaldi 16](https://iop.eventsair.com/gr24-amaldi16/), Glasgow, UK (July 2025)
-- GR 24 & Amaldi 16 Early Career Workshop (satellite meeting to the GR 24 & Amaldi 16 conference), Glasgow, UK (July 2025)
-- [JENAS](https://indico.cern.ch/event/1440480/), Didcot, UK (Apr 2025)
-- [GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting](https://indico.in2p3.fr/event/33026/), Glasgow, UK (June 2024)
+- [Shedding Light on Dark Sirens](https://www.lorentzcenter.nl/shedding-light-on-dark-sirens.html), Leiden, the Netherlands (Sept 2025) [member of OC]
+- [GR 24 & Amaldi 16](https://iop.eventsair.com/gr24-amaldi16/), Glasgow, UK (July 2025) [member of LOC]
+- GR 24 & Amaldi 16 Early Career Workshop (satellite meeting to the GR 24 & Amaldi 16 conference), Glasgow, UK (July 2025) [member of LOC]
+- [JENAS](https://indico.cern.ch/event/1440480/), Didcot, UK (Apr 2025) [member of LOC]
+- [GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting](https://indico.in2p3.fr/event/33026/), Glasgow, UK (June 2024) [main organiser]
 
 ## Invited talks at conferences and workshops
 - *GW cosmology prospects and targeted EM follow-up of dark sirens*, invited discussion session at the **5th Philip Wetton Workshop**, Oxford, UK (Sept 2025)
@@ -43,19 +42,27 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - *Statistically Inferring the Hubble Constant using Gravitational Wave Signals*, **BritGrav**, Portsmouth, UK  (Apr 2018)
 
 ## Seminars and colloquia
-- Colloquium speaker at University of Portsmouth's Institute of Cosmology and Gravitation (November 2023)
-- Seminar for University of Southampton's Gravity Seminar series (November 2023)
-- Seminar at Cardiff University, UK Nov 2022
-- Seminar at University of Cambridge, UK Oct 2022
-- Seminar (online) for the Laboratoire Astroparticle et Cosmologie, Paris, France Oct 2022
-- Seminar at Queen Mary University of London, UK Oct 2021
-- Seminar for the Center for Gravitation, Cosmology & Astrophysics, at the University of Wisconsin-Milwaukee, Wisconsin, USA May 2019
-- Seminar at LIGO Livingston, Louisiana, USA May 2019
+- Seminar for University of Nottingham's Particle Cosmology and Gravity Seminar series, UK (June 2025)
+- Seminar to the University of Warwick's Astronomy Group, UK (Dec 2024)
+- Seminar to Liverpool John Moores University's Astrophysics Research Institute, UK (Nov 2024)
+- Colloquium speaker at University of Portsmouth's Institute of Cosmology and Gravitation, UK (November 2023)
+- Seminar for University of Southampton's Gravity Seminar series, UK (November 2023)
+- Seminar at Cardiff University, UK (Nov 2022)
+- Seminar at University of Cambridge, UK (Oct 2022)
+- Seminar (online) for the Laboratoire Astroparticle et Cosmologie, Paris, France (Oct 2022)
+- Seminar at Queen Mary University of London, UK (Oct 2021)
+- Seminar for the Center for Gravitation, Cosmology & Astrophysics, at the University of Wisconsin-Milwaukee, Wisconsin, USA (May 2019)
+- Seminar at LIGO Livingston, Louisiana, USA (May 2019)
 
 ## Research Grants
 - Investigations in Gravitational Radiation, UKRI Consolidated Grant, 2025 - 2028, role: project co-lead.
 - ANR MRSEI project GWCats, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €30000 for 2 years]
 - CNRS AMORCE project GWGSC, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €10000 for 1 year]
+
+## Service Roles
+- LIGO-Virgo-KAGRA Cosmology Working Group Chair (June 2022 - present)
+- IGWN Program Committee member (May 2025 - present)
+- OzGrav Scientific Advisory Board member (July 2025 - present)
 
 ## Awards
 - Kelvin Prize and Medal (PhD thesis 2021)
@@ -79,7 +86,7 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - IGR stall at **Worldcon, World Science Fiction Convention** (Aug 2024)
 - IGR stall at **Glasgow Science Festival** (June 2024)
 - Talk for **Raising Attainment in Physics** Joint IOP Scotland SSERC conference for Scottish physics teachers (May 2024)
-- Talk for **Astrosoc**, Glasgow University Astronomy (Nov 2023)
+- Talk for **Astrosoc**, Glasgow University Astronomy Society (Nov 2023)
 - Talk for **Inverclyde Skywatchers** amateur astronomy group (Nov 2023)
 - IGR stall at **Explorathon**, Glasgow (Sept 2023)
 - Led **Girls into Physics Workshops** Glasgow and Inverness (2019)
