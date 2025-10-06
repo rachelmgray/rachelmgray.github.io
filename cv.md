@@ -20,6 +20,7 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - [GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting](https://indico.in2p3.fr/event/33026/), Glasgow, UK (June 2024) [main organiser]
 
 ## Invited talks at conferences and workshops
+- *Using GW dark sirens and galaxy catalogues for cosmology*, invited review talk at the **Lorentz Centre Workshop: Shedding Light on Dark Sirens**, Leiden, the Netherlands (Sept 2025)
 - *GW cosmology prospects and targeted EM follow-up of dark sirens*, invited discussion session at the **5th Philip Wetton Workshop**, Oxford, UK (Sept 2025)
 - *Cosmology with Dark Sirens & Galaxy Catalogues: a review*, Invited talk at the **Solvay Workshop on Gravitational Wave Cosmology**, Brussels, Belgium (Feb 2025)
 - *Cosmology with standard sirens: What’s the state of play?*, Invited talk at **Gravity Shape Pisa 2024**, Pisa, Italy (Oct 2024)
