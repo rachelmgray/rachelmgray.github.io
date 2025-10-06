@@ -15,9 +15,10 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 ## Organisation of scientific meetings
 - [Shedding Light on Dark Sirens](https://www.lorentzcenter.nl/shedding-light-on-dark-sirens.html), Leiden, the Netherlands (Sept 2025) [member of OC]
 - [GR 24 & Amaldi 16](https://iop.eventsair.com/gr24-amaldi16/), Glasgow, UK (July 2025) [member of LOC]
-- GR 24 & Amaldi 16 Early Career Workshop (satellite meeting to the GR 24 & Amaldi 16 conference), Glasgow, UK (July 2025) [member of LOC]
+- GR 24 & Amaldi 16 Early Career Workshop, Glasgow, UK (July 2025) [member of LOC]
 - [JENAS](https://indico.cern.ch/event/1440480/), Didcot, UK (Apr 2025) [member of LOC]
 - [GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting](https://indico.in2p3.fr/event/33026/), Glasgow, UK (June 2024) [main organiser]
+- Cosmology Face-to-Face at the LIGO-Virgo-KAGRA Collaboration meeting (twice yearly since 2022) [co-organiser and chair]
 
 ## Invited talks at conferences and workshops
 - *Using GW dark sirens and galaxy catalogues for cosmology*, invited review talk at the **Lorentz Centre Workshop: Shedding Light on Dark Sirens**, Leiden, the Netherlands (Sept 2025)
