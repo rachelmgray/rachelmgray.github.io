@@ -12,13 +12,18 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
   - Thesis: "Gravitational Wave Cosmology: measuring the Hubble constant with dark standard sirens". Supervised by Dr. John Veitch and Dr. Chris Messenger.
 - **MSci in Astronomy and Physics**, with Honours of the First Class, *University of Glasgow*, Glasgow, Scotland (2012 - 2017)
 
-## Organisation of scientific meetings
-- [Shedding Light on Dark Sirens](https://www.lorentzcenter.nl/shedding-light-on-dark-sirens.html), Leiden, the Netherlands (Sept 2025) [member of OC]
-- [GR 24 & Amaldi 16](https://iop.eventsair.com/gr24-amaldi16/), Glasgow, UK (July 2025) [member of LOC]
-- GR 24 & Amaldi 16 Early Career Workshop, Glasgow, UK (July 2025) [member of LOC]
-- [JENAS](https://indico.cern.ch/event/1440480/), Didcot, UK (Apr 2025) [member of LOC]
-- [GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting](https://indico.in2p3.fr/event/33026/), Glasgow, UK (June 2024) [main organiser]
-- Cosmology Face-to-Face at the LIGO-Virgo-KAGRA Collaboration meeting (twice yearly since 2022) [co-organiser and chair]
+## Leadership and Advisory Roles
+- LIGO-Virgo-KAGRA Cosmology Working Group Chair (June 2022 - present)
+- IGWN Program Committee member (May 2025 - present)
+- OzGrav Scientific Advisory Board member (July 2025 - present)
+
+## Research Grants
+- Investigations in Gravitational Radiation, UKRI Consolidated Grant, 2025, role: project co-lead [9% ownership of £7,645,907 over 3 years]
+- ANR MRSEI project GWCats, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €30000 for 2 years]
+- CNRS AMORCE project GWGSC, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €10000 for 1 year]
+
+## Awards
+- Kelvin Prize and Medal (PhD thesis 2021)
 
 ## Invited talks at conferences and workshops
 - *Using GW dark sirens and galaxy catalogues for cosmology*, invited review talk at the **Lorentz Centre Workshop: Shedding Light on Dark Sirens**, Leiden, the Netherlands (Sept 2025)
@@ -56,18 +61,13 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - Seminar for the Center for Gravitation, Cosmology & Astrophysics, at the University of Wisconsin-Milwaukee, Wisconsin, USA (May 2019)
 - Seminar at LIGO Livingston, Louisiana, USA (May 2019)
 
-## Research Grants
-- Investigations in Gravitational Radiation, UKRI Consolidated Grant, 2025 - 2028, role: project co-lead.
-- ANR MRSEI project GWCats, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €30000 for 2 years]
-- CNRS AMORCE project GWGSC, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €10000 for 1 year]
-
-## Service Roles
-- LIGO-Virgo-KAGRA Cosmology Working Group Chair (June 2022 - present)
-- IGWN Program Committee member (May 2025 - present)
-- OzGrav Scientific Advisory Board member (July 2025 - present)
-
-## Awards
-- Kelvin Prize and Medal (PhD thesis 2021)
+## Organisation of scientific meetings
+- [Shedding Light on Dark Sirens](https://www.lorentzcenter.nl/shedding-light-on-dark-sirens.html), Leiden, the Netherlands (Sept 2025) [member of OC]
+- [GR 24 & Amaldi 16](https://iop.eventsair.com/gr24-amaldi16/), Glasgow, UK (July 2025) [member of LOC]
+- GR 24 & Amaldi 16 Early Career Workshop, Glasgow, UK (July 2025) [member of LOC]
+- [JENAS](https://indico.cern.ch/event/1440480/), Didcot, UK (Apr 2025) [member of LOC]
+- [GWCats: Gravitational Wave & Galaxy Catalogues Cosmology Meeting](https://indico.in2p3.fr/event/33026/), Glasgow, UK (June 2024) [main organiser]
+- Cosmology Face-to-Face at the LIGO-Virgo-KAGRA Collaboration meeting (twice yearly since 2022) [co-organiser and chair]
 
 ## Teaching
 - Cosmology (part II) Astronomy Honours-level lecture course (2024 - present)
