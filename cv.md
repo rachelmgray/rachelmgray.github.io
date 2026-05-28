@@ -18,9 +18,10 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - OzGrav Scientific Advisory Board member (July 2025 - present)
 
 ## Research Grants
-- Investigations in Gravitational Radiation, UKRI Consolidated Grant, 2025, role: project co-lead [9% ownership of £7,645,907 over 3 years]
-- ANR MRSEI project GWCats, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €30000 for 2 years]
-- CNRS AMORCE project GWGSC, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €10000 for 1 year]
+- MSCA Staff Exchanges project GWCats, 2026, in collaboration with partner institutes; role: project partner [collaborative research fundings, portion of €700000 over 4 years]
+- Investigations in Gravitational Radiation, UKRI Consolidated Grant, 2025; role: project co-lead [9% ownership of £7,645,907 over 3 years]
+- ANR MRSEI project GWCats, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €30,000 for 2 years]
+- CNRS AMORCE project GWGSC, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €10,000 for 1 year]
 
 ## Awards
 - Kelvin Prize and Medal (PhD thesis 2021)
@@ -49,13 +50,15 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - *Statistically Inferring the Hubble Constant using Gravitational Wave Signals*, **BritGrav**, Portsmouth, UK  (Apr 2018)
 
 ## Seminars and colloquia
-- Seminar for University of Nottingham's Particle Cosmology and Gravity Seminar series, UK (June 2025)
+- Seminar for the University of Cambridge's Cosmology Lunch seminar series, UK (May 2026)
+- Seminar at Ghent University's Gravity Group, Belgium (May 2026)
+- Seminar for the University of Nottingham's Particle Cosmology and Gravity Seminar series, UK (June 2025)
 - Seminar to the University of Warwick's Astronomy Group, UK (Dec 2024)
 - Seminar to Liverpool John Moores University's Astrophysics Research Institute, UK (Nov 2024)
 - Colloquium speaker at University of Portsmouth's Institute of Cosmology and Gravitation, UK (November 2023)
 - Seminar for University of Southampton's Gravity Seminar series, UK (November 2023)
 - Seminar at Cardiff University, UK (Nov 2022)
-- Seminar at University of Cambridge, UK (Oct 2022)
+- Seminar for the University of Cambridge's DAMTP GR seminar series, UK (Oct 2022)
 - Seminar (online) for the Laboratoire Astroparticle et Cosmologie, Paris, France (Oct 2022)
 - Seminar at Queen Mary University of London, UK (Oct 2021)
 - Seminar for the Center for Gravitation, Cosmology & Astrophysics, at the University of Wisconsin-Milwaukee, Wisconsin, USA (May 2019)
@@ -79,6 +82,7 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - Alexander Papadopoulos, PhD student (2023 - present)
 - Zhuotao Li, PhD student (2023 - present)
 
+- Euan Campbell, MSci student (2025 - 2026)
 - Liam Gallacher, MSci student (2024 - 2025)
 - Katy Drummond, MSci student (2023 - 2024)
 - Rory Matheson, MSci student (2023 - 2024)
@@ -94,8 +98,10 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - Led **Girls into Physics Workshops** Glasgow and Inverness (2019)
 
 ## Publication highlights
-- The LIGO-Virgo-KAGRA Collaboration, "GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation", 2025, https://arxiv.org/abs/2509.04348
-- Z. Li, **R. Gray** and I. S. Heng, "Using gravitational wave dark sirens to choose between host galaxy weighting models", 2025, *in submission*, https://arxiv.org/abs/2508.15574
+- The LIGO-Virgo-KAGRA Collaboration, "GWTC-5.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation", 2026, https://arxiv.org/abs/2605.27227
+- A. Papadopoulos, C. E. A. Chapman-Bird, **R. Gray** et al., "Scalable Dark Siren Cosmology with gwcosmo: GPU Acceleration, Validation and Systematics", 2026, https://arxiv.org/abs/2605.23538
+- The LIGO-Virgo-KAGRA Collaboration, "GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation", 2025, accepted for publiction in ApJ, https://arxiv.org/abs/2509.04348 
+- Z. Li, **R. Gray** and I. S. Heng, "Using gravitational wave dark sirens to choose between host galaxy weighting models", *ApJ* **1003** 176 (2026)
 - P. Raffai et al., "Constraints on Coasting Cosmological Models from Gravitational-wave Standard Sirens", *ApJ* **961** 17 (2024)
 - A. Chen, **R. Gray** and T. Baker, "Testing the nature of gravitational wave propagation using dark sirens and galaxy catalogues", *JCAP* **2024** 035 (2024)
 - **R. Gray** et al., "Joint cosmological and gravitational-wave population inference using dark sirens and galaxy catalogues", *JCAP* **2023** 023 (2023)
