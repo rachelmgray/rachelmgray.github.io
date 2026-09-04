@@ -19,7 +19,7 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 
 ## Research Grants
 - MSCA Staff Exchanges project GWCats, 2026, in collaboration with partner institutes; role: project partner [8.6% ownership of €700,000 over 4 years]
-- Investigations in Gravitational Radiation, UKRI Consolidated Grant, 2025; role: project co-lead [9% ownership of £7,645,907 over 3 years]
+- Investigations in Gravitational Radiation, UKRI Consolidated Grant, 2025; role: project co-investigator [9% ownership of £2,078,067 over 3 years]
 - ANR MRSEI project GWCats, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €30,000 for 2 years]
 - CNRS AMORCE project GWGSC, 2024, in collaboration with L2IT, Toulouse; role: co-author [collaborative research funding, €10,000 for 1 year]
 
