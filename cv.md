@@ -1,6 +1,6 @@
-# CV
+# Dr Rachel Gray - CV
 
-I am a lecturer at the University of Glasgow, specialising in constraining cosmological parameters using gravitational wave signals from compact binary mergers. I currently serve as co-chair for the LIGO-Virgo-KAGRA Cosmology Working Group.
+I am a lecturer at the University of Glasgow, specialising in constraining cosmological parameters using gravitational wave signals from compact binary mergers.
 
 ## Career
 - **Lecturer**, *University of Glasgow*, Glasgow, Scotland (Jan 2023 - present)
