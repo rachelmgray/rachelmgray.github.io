@@ -13,7 +13,7 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 - **MSci in Astronomy and Physics**, with Honours of the First Class, *University of Glasgow*, Glasgow, Scotland (2012 - 2017)
 
 ## Leadership and Advisory Roles
-- LIGO-Virgo-KAGRA Cosmology Working Group Chair (June 2022 - present)
+- LIGO-Virgo-KAGRA Cosmology Working Group Chair (June 2022 - June 2026)
 - IGWN Program Committee member (May 2025 - present)
 - OzGrav Scientific Advisory Board member (July 2025 - present)
 
