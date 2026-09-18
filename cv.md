@@ -26,6 +26,13 @@ I am a lecturer at the University of Glasgow, specialising in constraining cosmo
 ## Awards
 - Kelvin Prize and Medal (PhD thesis 2021)
 
+## Academic service
+- Internal PhD examiner for the University of Glasgow (Graeme McGhee, Aug 2024; Storm Colloms, Aug 2026)
+- PhD examiner for the University of Ghent (Freija Beirnaert, Nov 2025 and May 2026)
+
+## Scientific memberships
+- I am a member of the Royal Astronomical Society and the Institute of Physics.
+
 ## Invited talks at conferences and workshops
 - *Using GW dark sirens and galaxy catalogues for cosmology*, invited review talk at the **Lorentz Centre Workshop: Shedding Light on Dark Sirens**, Leiden, the Netherlands (Sept 2025)
 - *GW cosmology prospects and targeted EM follow-up of dark sirens*, invited discussion session at the **5th Philip Wetton Workshop**, Oxford, UK (Sept 2025)
